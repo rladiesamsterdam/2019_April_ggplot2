@@ -1,2 +1,2 @@
 # 2019_April_ggplot2
-Material for the workshop on ggplot by Olga Ivanova, Sarah Stolle and Janine Khuc on the 30th of April
+Material for the workshop on ggplot by Olga Ivanova, Sarah Stolle and Janine Khuc on the 30th of April. The repo consists of two R- scripts that are the exercises, a handout and a dataset named fastfood_calories.csv where the original dataset comes from https://fastfoodnutrition.org/ and was cleaned for visualisation purposes for #TidyTuesday https://github.com/rfordatascience/tidytuesday
